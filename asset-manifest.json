@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/rouvie/static/css/main.bf0a370b.css",
-    "main.js": "/rouvie/static/js/main.a7ade742.js",
+    "main.css": "/rouvie/static/css/main.a6551aba.css",
+    "main.js": "/rouvie/static/js/main.ed23d93f.js",
     "static/media/Santa.webp": "/rouvie/static/media/Santa.9a40bb6f973c9ea97b5f.webp",
     "static/media/Puss_in_boots_Dashboard.webp": "/rouvie/static/media/Puss_in_boots_Dashboard.f6d21c36cc63bbd08127.webp",
     "static/media/supermario.webp": "/rouvie/static/media/supermario.bbcfee4c8d370358b262.webp",
     "index.html": "/rouvie/index.html"
   },
   "entrypoints": [
-    "static/css/main.bf0a370b.css",
-    "static/js/main.a7ade742.js"
+    "static/css/main.a6551aba.css",
+    "static/js/main.ed23d93f.js"
   ]
 }
